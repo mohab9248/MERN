@@ -1,5 +1,5 @@
 const RoutesConst = {
-  SIGNIN: "sign-in",
+  SIGNIN: "signin",
   PROFILE: "Profile",
   SIGNUP: "Signup",
   ABOUT: "About",
